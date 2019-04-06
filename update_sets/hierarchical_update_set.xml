@@ -1,0 +1,653 @@
+<?xml version="1.0" encoding="UTF-8"?><unload unload_date="2019-04-06 08:03:29">
+<sys_remote_update_set action="INSERT_OR_UPDATE">
+<application display_value="Delegated Dev 19">ddc3a60351a03300964fea027a05d41b</application>
+<application_name>Delegated Dev 19</application_name>
+<application_scope>x_delegated_dev_19</application_scope>
+<application_version>1.0.0</application_version>
+<collisions/>
+<commit_date/>
+<deleted/>
+<description/>
+<inserted/>
+<name>Parent Update Set</name>
+<origin_sys_id/>
+<parent display_value=""/>
+<release_date/>
+<remote_base_update_set display_value="Parent Update Set">0233b6cf51a03300964fea027a05d457</remote_base_update_set>
+<remote_parent_id/>
+<remote_sys_id>3e22f68f51a03300964fea027a05d4b1</remote_sys_id>
+<state>loaded</state>
+<summary/>
+<sys_class_name>sys_remote_update_set</sys_class_name>
+<sys_created_by>maint</sys_created_by>
+<sys_created_on>2019-04-06 08:03:29</sys_created_on>
+<sys_id>0233b6cf51a03300964fea027a05d457</sys_id>
+<sys_mod_count>1</sys_mod_count>
+<sys_updated_by>maint</sys_updated_by>
+<sys_updated_on>2019-04-06 08:03:29</sys_updated_on>
+<update_set display_value=""/>
+<update_source display_value=""/>
+<updated/>
+</sys_remote_update_set>
+<sys_remote_update_set action="INSERT_OR_UPDATE">
+<application display_value="Delegated Dev 19">ddc3a60351a03300964fea027a05d41b</application>
+<application_name>Delegated Dev 19</application_name>
+<application_scope>x_delegated_dev_19</application_scope>
+<application_version>1.0.0</application_version>
+<collisions/>
+<commit_date/>
+<deleted/>
+<description/>
+<inserted/>
+<name>Parent Update Set</name>
+<origin_sys_id/>
+<parent display_value=""/>
+<release_date/>
+<remote_base_update_set display_value="Parent Update Set">0233b6cf51a03300964fea027a05d457</remote_base_update_set>
+<remote_parent_id/>
+<remote_sys_id>3e22f68f51a03300964fea027a05d4b1</remote_sys_id>
+<state>loaded</state>
+<summary/>
+<sys_class_name>sys_remote_update_set</sys_class_name>
+<sys_created_by>maint</sys_created_by>
+<sys_created_on>2019-04-06 08:03:29</sys_created_on>
+<sys_id>0233b6cf51a03300964fea027a05d457</sys_id>
+<sys_mod_count>1</sys_mod_count>
+<sys_updated_by>maint</sys_updated_by>
+<sys_updated_on>2019-04-06 08:03:29</sys_updated_on>
+<update_set display_value=""/>
+<update_source display_value=""/>
+<updated/>
+</sys_remote_update_set>
+<sys_remote_update_set action="INSERT_OR_UPDATE">
+<application display_value="Delegated Dev User Administration">1ae3c8a3c3221200f25d174292d3aea3</application>
+<application_name>Delegated Dev User Administration</application_name>
+<application_scope>sn_dd_user_admin</application_scope>
+<application_version>1.0.17</application_version>
+<collisions/>
+<commit_date/>
+<deleted/>
+<description/>
+<inserted/>
+<name>Child Update Set - No Access</name>
+<origin_sys_id/>
+<parent display_value="Parent Update Set">0233b6cf51a03300964fea027a05d457</parent>
+<release_date/>
+<remote_base_update_set display_value="Parent Update Set">0233b6cf51a03300964fea027a05d457</remote_base_update_set>
+<remote_parent_id/>
+<remote_sys_id>4251328f51a03300964fea027a05d4cb</remote_sys_id>
+<state>in_hierarchy</state>
+<summary/>
+<sys_class_name>sys_remote_update_set</sys_class_name>
+<sys_created_by>maint</sys_created_by>
+<sys_created_on>2019-04-06 08:03:29</sys_created_on>
+<sys_id>0a33b6cf51a03300964fea027a05d458</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>maint</sys_updated_by>
+<sys_updated_on>2019-04-06 08:03:29</sys_updated_on>
+<update_set display_value=""/>
+<update_source display_value=""/>
+<updated/>
+</sys_remote_update_set>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Delegated Dev 19">ddc3a60351a03300964fea027a05d41b</application>
+<category>customer</category>
+<comments/>
+<name>sys_dictionary_x_delegated_dev_19_las_vegas_weather_field_in_parent_update_set</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update&gt;&lt;sys_dictionary action="INSERT_OR_UPDATE" element="field_in_parent_update_set" table="x_delegated_dev_19_las_vegas_weather"&gt;&lt;active&gt;true&lt;/active&gt;&lt;array&gt;false&lt;/array&gt;&lt;array_denormalized&gt;false&lt;/array_denormalized&gt;&lt;attributes/&gt;&lt;audit&gt;false&lt;/audit&gt;&lt;calculation&gt;&lt;![CDATA[(function calculatedFieldValue(current) {
+
+	// Add your code here
+	return '';  // return the calculated value
+
+})(current);]]&gt;&lt;/calculation&gt;&lt;choice/&gt;&lt;choice_field/&gt;&lt;choice_table/&gt;&lt;column_label&gt;Field in Parent Update Set&lt;/column_label&gt;&lt;comments/&gt;&lt;create_roles/&gt;&lt;default_value/&gt;&lt;defaultsort/&gt;&lt;delete_roles/&gt;&lt;dependent/&gt;&lt;dependent_on_field/&gt;&lt;display&gt;false&lt;/display&gt;&lt;dynamic_creation&gt;false&lt;/dynamic_creation&gt;&lt;dynamic_creation_script/&gt;&lt;dynamic_default_value/&gt;&lt;dynamic_ref_qual/&gt;&lt;element&gt;field_in_parent_update_set&lt;/element&gt;&lt;element_reference&gt;false&lt;/element_reference&gt;&lt;foreign_database/&gt;&lt;function_definition/&gt;&lt;function_field&gt;false&lt;/function_field&gt;&lt;internal_type display_value="Reference"&gt;reference&lt;/internal_type&gt;&lt;mandatory&gt;false&lt;/mandatory&gt;&lt;max_length&gt;40&lt;/max_length&gt;&lt;name&gt;x_delegated_dev_19_las_vegas_weather&lt;/name&gt;&lt;next_element/&gt;&lt;primary&gt;false&lt;/primary&gt;&lt;read_only&gt;false&lt;/read_only&gt;&lt;read_roles/&gt;&lt;reference display_value="" name="sn_dd_user_admin_child_update_set_table"&gt;sn_dd_user_admin_child_update_set_table&lt;/reference&gt;&lt;reference_cascade_rule/&gt;&lt;reference_floats&gt;false&lt;/reference_floats&gt;&lt;reference_key/&gt;&lt;reference_qual/&gt;&lt;reference_qual_condition/&gt;&lt;reference_type/&gt;&lt;sizeclass/&gt;&lt;spell_check&gt;false&lt;/spell_check&gt;&lt;staged&gt;false&lt;/staged&gt;&lt;sys_class_name&gt;sys_dictionary&lt;/sys_class_name&gt;&lt;sys_created_by&gt;maint&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2019-04-06 07:59:27&lt;/sys_created_on&gt;&lt;sys_id&gt;f1f07e4f51a03300964fea027a05d452&lt;/sys_id&gt;&lt;sys_mod_count&gt;1&lt;/sys_mod_count&gt;&lt;sys_name&gt;Field in Parent Update Set&lt;/sys_name&gt;&lt;sys_package display_value="Delegated Dev 19" source="x_delegated_dev_19"&gt;ddc3a60351a03300964fea027a05d41b&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Delegated Dev 19"&gt;ddc3a60351a03300964fea027a05d41b&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_dictionary_x_delegated_dev_19_las_vegas_weather_field_in_parent_update_set&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;maint&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2019-04-06 08:02:18&lt;/sys_updated_on&gt;&lt;table_reference&gt;false&lt;/table_reference&gt;&lt;text_index&gt;false&lt;/text_index&gt;&lt;unique&gt;false&lt;/unique&gt;&lt;use_dependent_field&gt;false&lt;/use_dependent_field&gt;&lt;use_dynamic_default&gt;false&lt;/use_dynamic_default&gt;&lt;use_reference_qualifier&gt;simple&lt;/use_reference_qualifier&gt;&lt;virtual&gt;false&lt;/virtual&gt;&lt;widget/&gt;&lt;write_roles/&gt;&lt;xml_view&gt;false&lt;/xml_view&gt;&lt;/sys_dictionary&gt;&lt;/record_update&gt;</payload>
+<payload_hash>-118133363</payload_hash>
+<remote_update_set display_value="Parent Update Set">0233b6cf51a03300964fea027a05d457</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>maint</sys_created_by>
+<sys_created_on>2019-04-06 08:03:29</sys_created_on>
+<sys_id>0633b6cf51a03300964fea027a05d457</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>169f1ab72f90000001</sys_recorded_at>
+<sys_updated_by>maint</sys_updated_by>
+<sys_updated_on>2019-04-06 08:03:29</sys_updated_on>
+<table>x_delegated_dev_19_las_vegas_weather</table>
+<target_name>Las Vegas Weather.Field in Parent Update Set</target_name>
+<type>Dictionary</type>
+<update_domain>global</update_domain>
+<update_guid>74f2b2cfaca033003e3fb232ee2f175c</update_guid>
+<update_guid_history>74f2b2cfaca033003e3fb232ee2f175c:-118133363,83423a8f97a0330068651c772916d2a5:-791834747</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Delegated Dev 19">ddc3a60351a03300964fea027a05d41b</application>
+<category>customer</category>
+<comments/>
+<name>sys_ui_section_2224ea0351a03300964fea027a05d4e0</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_section caption="" section_id="2224ea0351a03300964fea027a05d4e0" sys_domain="global" table="x_delegated_dev_19_las_vegas_weather" version="3" view=""><sys_ui_element action="INSERT_OR_UPDATE"><element>.begin_split</element><position>0</position><sys_created_by>maint</sys_created_by><sys_created_on>2019-04-06 06:57:55</sys_created_on><sys_id>2934ea0351a03300964fea027a05d4f8</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_delegated_dev_19_las_vegas_weather" sys_domain="global" view="Default view">2224ea0351a03300964fea027a05d4e0</sys_ui_section><sys_updated_by>maint</sys_updated_by><sys_updated_on>2019-04-06 06:57:55</sys_updated_on><sys_user/><type>.begin_split</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>weather</element><position>1</position><sys_created_by>maint</sys_created_by><sys_created_on>2019-04-06 06:57:55</sys_created_on><sys_id>a934ea0351a03300964fea027a05d4f8</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_delegated_dev_19_las_vegas_weather" sys_domain="global" view="Default view">2224ea0351a03300964fea027a05d4e0</sys_ui_section><sys_updated_by>maint</sys_updated_by><sys_updated_on>2019-04-06 06:57:55</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>.split</element><position>2</position><sys_created_by>maint</sys_created_by><sys_created_on>2019-04-06 06:57:55</sys_created_on><sys_id>2d34ea0351a03300964fea027a05d4f8</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_delegated_dev_19_las_vegas_weather" sys_domain="global" view="Default view">2224ea0351a03300964fea027a05d4e0</sys_ui_section><sys_updated_by>maint</sys_updated_by><sys_updated_on>2019-04-06 06:57:55</sys_updated_on><sys_user/><type>.split</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>temperature</element><position>3</position><sys_created_by>maint</sys_created_by><sys_created_on>2019-04-06 06:57:55</sys_created_on><sys_id>ad34ea0351a03300964fea027a05d4f8</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_delegated_dev_19_las_vegas_weather" sys_domain="global" view="Default view">2224ea0351a03300964fea027a05d4e0</sys_ui_section><sys_updated_by>maint</sys_updated_by><sys_updated_on>2019-04-06 06:57:55</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>.end_split</element><position>4</position><sys_created_by>maint</sys_created_by><sys_created_on>2019-04-06 06:57:55</sys_created_on><sys_id>2134ea0351a03300964fea027a05d4f9</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_delegated_dev_19_las_vegas_weather" sys_domain="global" view="Default view">2224ea0351a03300964fea027a05d4e0</sys_ui_section><sys_updated_by>maint</sys_updated_by><sys_updated_on>2019-04-06 06:57:55</sys_updated_on><sys_user/><type>.end_split</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>added_field_from_update_set</element><position>5</position><sys_created_by>maint</sys_created_by><sys_created_on>2019-04-06 07:53:36</sys_created_on><sys_id>51f03e4f51a03300964fea027a05d458</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_delegated_dev_19_las_vegas_weather" sys_domain="global" view="Default view">2224ea0351a03300964fea027a05d4e0</sys_ui_section><sys_updated_by>maint</sys_updated_by><sys_updated_on>2019-04-06 07:53:36</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>field_in_parent_update_set</element><position>6</position><sys_created_by>maint</sys_created_by><sys_created_on>2019-04-06 07:59:27</sys_created_on><sys_id>43423a8f51a03300964fea027a05d4a2</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_delegated_dev_19_las_vegas_weather" sys_domain="global" view="Default view">2224ea0351a03300964fea027a05d4e0</sys_ui_section><sys_updated_by>maint</sys_updated_by><sys_updated_on>2019-04-06 07:59:27</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_section action="INSERT_OR_UPDATE"><caption/><header>false</header><name>x_delegated_dev_19_las_vegas_weather</name><roles/><sys_class_name>sys_ui_section</sys_class_name><sys_created_by>maint</sys_created_by><sys_created_on>2019-04-06 06:57:43</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>2224ea0351a03300964fea027a05d4e0</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_delegated_dev_19_las_vegas_weather</sys_name><sys_overrides/><sys_package display_value="Delegated Dev 19" source="x_delegated_dev_19">ddc3a60351a03300964fea027a05d41b</sys_package><sys_policy/><sys_scope display_value="Delegated Dev 19">ddc3a60351a03300964fea027a05d41b</sys_scope><sys_update_name>sys_ui_section_2224ea0351a03300964fea027a05d4e0</sys_update_name><sys_updated_by>maint</sys_updated_by><sys_updated_on>2019-04-06 06:57:43</sys_updated_on><sys_user/><title>true</title><view display_value="Default view" name="NULL">Default view</view><view_name/></sys_ui_section></sys_ui_section></record_update>]]></payload>
+<payload_hash>-1428775525</payload_hash>
+<remote_update_set display_value="Parent Update Set">0233b6cf51a03300964fea027a05d457</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>maint</sys_created_by>
+<sys_created_on>2019-04-06 08:03:29</sys_created_on>
+<sys_id>8e33b6cf51a03300964fea027a05d457</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>169f1a8d5e10000001</sys_recorded_at>
+<sys_updated_by>maint</sys_updated_by>
+<sys_updated_on>2019-04-06 08:03:29</sys_updated_on>
+<table>x_delegated_dev_19_las_vegas_weather</table>
+<target_name>Las Vegas Weather</target_name>
+<type>Form Layout</type>
+<update_domain>global</update_domain>
+<update_guid>8f423a8f67a0330066c8eca620dcd7a3</update_guid>
+<update_guid_history>8f423a8f67a0330066c8eca620dcd7a3:-1428775525,d1f03e4f8ea03300ddccdf807ac2565a:-1037754364,6bb8ee47d9a033003adc0357e11d13d2:0,edb8ae470da033001c797a46ab86421f:-458649445,17b66a8349a03300f9e28dc83ccd375e:0,ddb6e683a2a03300225a3c6e6520eda1:-458649445,6534ea033ba03300d8ae1f7905e649fa:670615677,ba24ea0384a0330078bfa958aa5d52e8:699521533,2224ea039fa03300af27676cf9da28e3:-2015206420</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Delegated Dev 19">ddc3a60351a03300964fea027a05d41b</application>
+<category>customer</category>
+<comments/>
+<name>sys_documentation_x_delegated_dev_19_las_vegas_weather_field_in_parent_update_set_en</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_documentation element="field_in_parent_update_set" label="Field in Parent Update Set" language="en" table="x_delegated_dev_19_las_vegas_weather"><sys_documentation action="INSERT_OR_UPDATE"><element>field_in_parent_update_set</element><help/><hint/><label>Field in Parent Update Set</label><language>en</language><name>x_delegated_dev_19_las_vegas_weather</name><plural>Field in Parent Update Sets</plural><sys_class_name>sys_documentation</sys_class_name><sys_created_by>maint</sys_created_by><sys_created_on>2019-04-06 07:59:27</sys_created_on><sys_id>8b427a8f51a03300964fea027a05d49f</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Field in Parent Update Set</sys_name><sys_package display_value="Delegated Dev 19" source="x_delegated_dev_19">ddc3a60351a03300964fea027a05d41b</sys_package><sys_policy/><sys_scope display_value="Delegated Dev 19">ddc3a60351a03300964fea027a05d41b</sys_scope><sys_update_name>sys_documentation_x_delegated_dev_19_las_vegas_weather_field_in_parent_update_set_en</sys_update_name><sys_updated_by>maint</sys_updated_by><sys_updated_on>2019-04-06 07:59:27</sys_updated_on><url/><url_target/></sys_documentation></sys_documentation></record_update>]]></payload>
+<payload_hash>576939081</payload_hash>
+<remote_update_set display_value="Parent Update Set">0233b6cf51a03300964fea027a05d457</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>maint</sys_created_by>
+<sys_created_on>2019-04-06 08:03:29</sys_created_on>
+<sys_id>ca33b6cf51a03300964fea027a05d457</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>169f1a8d6cd0000001</sys_recorded_at>
+<sys_updated_by>maint</sys_updated_by>
+<sys_updated_on>2019-04-06 08:03:29</sys_updated_on>
+<table>x_delegated_dev_19_las_vegas_weather</table>
+<target_name>Las Vegas Weather.Field in Parent Update Set</target_name>
+<type>Field Label</type>
+<update_domain>global</update_domain>
+<update_guid>43427a8fd9a0330074d14f6855765ea7</update_guid>
+<update_guid_history>43427a8fd9a0330074d14f6855765ea7:576939081</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Delegated Dev User Administration">1ae3c8a3c3221200f25d174292d3aea3</application>
+<category>customer</category>
+<comments/>
+<name>sys_ui_application_dfb2fe8f51a03300964fea027a05d45d</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_application"><sys_ui_application action="INSERT_OR_UPDATE"><active>true</active><hint/><name>Child Update Set Table</name><order/><roles>sn_dd_user_admin.child_update_set_table_user</roles><sys_class_name>sys_ui_application</sys_class_name><sys_created_by>maint</sys_created_by><sys_created_on>2019-04-06 08:01:24</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>dfb2fe8f51a03300964fea027a05d45d</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Child Update Set Table</sys_name><sys_overrides/><sys_package display_value="Delegated Dev User Administration" source="sn_dd_user_admin">1ae3c8a3c3221200f25d174292d3aea3</sys_package><sys_policy/><sys_scope display_value="Delegated Dev User Administration">1ae3c8a3c3221200f25d174292d3aea3</sys_scope><sys_update_name>sys_ui_application_dfb2fe8f51a03300964fea027a05d45d</sys_update_name><sys_updated_by>maint</sys_updated_by><sys_updated_on>2019-04-06 08:01:24</sys_updated_on></sys_ui_application></record_update>]]></payload>
+<payload_hash>1779850715</payload_hash>
+<remote_update_set display_value="Child Update Set - No Access">0a33b6cf51a03300964fea027a05d458</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>maint</sys_created_by>
+<sys_created_on>2019-04-06 08:03:29</sys_created_on>
+<sys_id>0233b6cf51a03300964fea027a05d4bf</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>169f1aa9cdc0000001</sys_recorded_at>
+<sys_updated_by>maint</sys_updated_by>
+<sys_updated_on>2019-04-06 08:03:29</sys_updated_on>
+<table/>
+<target_name>Child Update Set Table</target_name>
+<type>Application Menu</type>
+<update_domain>global</update_domain>
+<update_guid>53b2fe8f1ea03300f55a86641c35d05f</update_guid>
+<update_guid_history>53b2fe8f1ea03300f55a86641c35d05f:1779850715</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Delegated Dev User Administration">1ae3c8a3c3221200f25d174292d3aea3</application>
+<category>customer</category>
+<comments/>
+<name>sys_security_acl_role_27b2fe8f51a03300964fea027a05d465</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>maint</sys_created_by><sys_created_on>2019-04-06 08:01:24</sys_created_on><sys_id>27b2fe8f51a03300964fea027a05d465</sys_id><sys_mod_count>0</sys_mod_count><sys_name>sn_dd_user_admin_child_update_set_table.sn_dd_user_admin.child_update_set_table_user</sys_name><sys_package display_value="Delegated Dev User Administration" source="sn_dd_user_admin">1ae3c8a3c3221200f25d174292d3aea3</sys_package><sys_policy/><sys_scope display_value="Delegated Dev User Administration">1ae3c8a3c3221200f25d174292d3aea3</sys_scope><sys_security_acl display_value="sn_dd_user_admin_child_update_set_table">53b2fe8f51a03300964fea027a05d462</sys_security_acl><sys_update_name>sys_security_acl_role_27b2fe8f51a03300964fea027a05d465</sys_update_name><sys_updated_by>maint</sys_updated_by><sys_updated_on>2019-04-06 08:01:24</sys_updated_on><sys_user_role display_value="sn_dd_user_admin.child_update_set_table_user" name="sn_dd_user_admin.child_update_set_table_user">d7b2be8f51a03300964fea027a05d479</sys_user_role><transaction_id/></sys_security_acl_role></record_update>]]></payload>
+<payload_hash>-2137598245</payload_hash>
+<remote_update_set display_value="Child Update Set - No Access">0a33b6cf51a03300964fea027a05d458</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>maint</sys_created_by>
+<sys_created_on>2019-04-06 08:03:29</sys_created_on>
+<sys_id>0633b6cf51a03300964fea027a05d4be</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>169f1aa9d620000001</sys_recorded_at>
+<sys_updated_by>maint</sys_updated_by>
+<sys_updated_on>2019-04-06 08:03:29</sys_updated_on>
+<table>sn_dd_user_admin_child_update_set_table</table>
+<target_name>sn_dd_user_admin_child_update_set_table.sn_dd_user_admin.child_update_set_table_user</target_name>
+<type>Access Roles</type>
+<update_domain>global</update_domain>
+<update_guid>6bb2fe8f36a033006de3954cd8803367</update_guid>
+<update_guid_history>6bb2fe8f36a033006de3954cd8803367:-2137598245</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Delegated Dev User Administration">1ae3c8a3c3221200f25d174292d3aea3</application>
+<category>customer</category>
+<comments/>
+<name>sys_security_acl_53b2fe8f51a03300964fea027a05d462</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl"><sys_security_acl action="INSERT_OR_UPDATE"><active>true</active><admin_overrides>true</admin_overrides><advanced>false</advanced><condition/><description>Default access control on sn_dd_user_admin_child_update_set_table</description><name>sn_dd_user_admin_child_update_set_table</name><operation display_value="create">create</operation><script/><sys_class_name>sys_security_acl</sys_class_name><sys_created_by>maint</sys_created_by><sys_created_on>2019-04-06 08:01:24</sys_created_on><sys_id>53b2fe8f51a03300964fea027a05d462</sys_id><sys_mod_count>0</sys_mod_count><sys_name>sn_dd_user_admin_child_update_set_table</sys_name><sys_package display_value="Delegated Dev User Administration" source="sn_dd_user_admin">1ae3c8a3c3221200f25d174292d3aea3</sys_package><sys_policy/><sys_scope display_value="Delegated Dev User Administration">1ae3c8a3c3221200f25d174292d3aea3</sys_scope><sys_update_name>sys_security_acl_53b2fe8f51a03300964fea027a05d462</sys_update_name><sys_updated_by>maint</sys_updated_by><sys_updated_on>2019-04-06 08:01:24</sys_updated_on><type display_value="record">record</type></sys_security_acl></record_update>]]></payload>
+<payload_hash>1948757325</payload_hash>
+<remote_update_set display_value="Child Update Set - No Access">0a33b6cf51a03300964fea027a05d458</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>maint</sys_created_by>
+<sys_created_on>2019-04-06 08:03:29</sys_created_on>
+<sys_id>0a33b6cf51a03300964fea027a05d4bd</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>169f1aa9d310000001</sys_recorded_at>
+<sys_updated_by>maint</sys_updated_by>
+<sys_updated_on>2019-04-06 08:03:29</sys_updated_on>
+<table>sn_dd_user_admin_child_update_set_table</table>
+<target_name>sn_dd_user_admin_child_update_set_table</target_name>
+<type>Access Control</type>
+<update_domain>global</update_domain>
+<update_guid>a7b2fe8fc4a0330051a3480d4f664664</update_guid>
+<update_guid_history>a7b2fe8fc4a0330051a3480d4f664664:1948757325</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Delegated Dev User Administration">1ae3c8a3c3221200f25d174292d3aea3</application>
+<category>customer</category>
+<comments/>
+<name>sys_dictionary_sn_dd_user_admin_child_update_set_table_null</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update&gt;&lt;sys_dictionary action="INSERT_OR_UPDATE" element="" table="sn_dd_user_admin_child_update_set_table"&gt;&lt;active&gt;true&lt;/active&gt;&lt;array&gt;false&lt;/array&gt;&lt;array_denormalized&gt;false&lt;/array_denormalized&gt;&lt;attributes/&gt;&lt;audit&gt;false&lt;/audit&gt;&lt;calculation&gt;&lt;![CDATA[(function calculatedFieldValue(current) {
+
+	// Add your code here
+	return '';  // return the calculated value
+
+})(current);]]&gt;&lt;/calculation&gt;&lt;choice/&gt;&lt;choice_field/&gt;&lt;choice_table/&gt;&lt;column_label/&gt;&lt;comments/&gt;&lt;create_roles/&gt;&lt;default_value/&gt;&lt;defaultsort/&gt;&lt;delete_roles/&gt;&lt;dependent/&gt;&lt;dependent_on_field/&gt;&lt;display&gt;false&lt;/display&gt;&lt;dynamic_creation&gt;false&lt;/dynamic_creation&gt;&lt;dynamic_creation_script/&gt;&lt;dynamic_default_value/&gt;&lt;dynamic_ref_qual/&gt;&lt;element/&gt;&lt;element_reference&gt;false&lt;/element_reference&gt;&lt;foreign_database/&gt;&lt;function_definition/&gt;&lt;function_field&gt;false&lt;/function_field&gt;&lt;internal_type display_value="Collection"&gt;collection&lt;/internal_type&gt;&lt;mandatory&gt;false&lt;/mandatory&gt;&lt;max_length&gt;40&lt;/max_length&gt;&lt;name&gt;sn_dd_user_admin_child_update_set_table&lt;/name&gt;&lt;next_element/&gt;&lt;primary&gt;false&lt;/primary&gt;&lt;read_only&gt;false&lt;/read_only&gt;&lt;read_roles/&gt;&lt;reference/&gt;&lt;reference_cascade_rule/&gt;&lt;reference_floats&gt;false&lt;/reference_floats&gt;&lt;reference_key/&gt;&lt;reference_qual/&gt;&lt;reference_qual_condition/&gt;&lt;reference_type/&gt;&lt;sizeclass/&gt;&lt;spell_check&gt;false&lt;/spell_check&gt;&lt;staged&gt;false&lt;/staged&gt;&lt;sys_class_name&gt;sys_dictionary&lt;/sys_class_name&gt;&lt;sys_created_by&gt;maint&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2019-04-06 08:01:24&lt;/sys_created_on&gt;&lt;sys_id&gt;e7b2fe8f51a03300964fea027a05d478&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;sn_dd_user_admin_child_update_set_table&lt;/sys_name&gt;&lt;sys_package display_value="Delegated Dev User Administration" source="sn_dd_user_admin"&gt;1ae3c8a3c3221200f25d174292d3aea3&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Delegated Dev User Administration"&gt;1ae3c8a3c3221200f25d174292d3aea3&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_dictionary_sn_dd_user_admin_child_update_set_table_null&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;maint&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2019-04-06 08:01:24&lt;/sys_updated_on&gt;&lt;table_reference&gt;false&lt;/table_reference&gt;&lt;text_index&gt;false&lt;/text_index&gt;&lt;unique&gt;false&lt;/unique&gt;&lt;use_dependent_field&gt;false&lt;/use_dependent_field&gt;&lt;use_dynamic_default&gt;false&lt;/use_dynamic_default&gt;&lt;use_reference_qualifier&gt;simple&lt;/use_reference_qualifier&gt;&lt;virtual&gt;false&lt;/virtual&gt;&lt;widget/&gt;&lt;write_roles/&gt;&lt;xml_view&gt;false&lt;/xml_view&gt;&lt;/sys_dictionary&gt;&lt;/record_update&gt;</payload>
+<payload_hash>120988519</payload_hash>
+<remote_update_set display_value="Child Update Set - No Access">0a33b6cf51a03300964fea027a05d458</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>maint</sys_created_by>
+<sys_created_on>2019-04-06 08:03:29</sys_created_on>
+<sys_id>0e33b6cf51a03300964fea027a05d4bc</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>169f1aa9ff00000001</sys_recorded_at>
+<sys_updated_by>maint</sys_updated_by>
+<sys_updated_on>2019-04-06 08:03:29</sys_updated_on>
+<table>sn_dd_user_admin_child_update_set_table</table>
+<target_name>Child Update Set Table</target_name>
+<type>Dictionary</type>
+<update_domain>global</update_domain>
+<update_guid>27b2fe8f6da03300a8fb70a5a19cbe8c</update_guid>
+<update_guid_history>27b2fe8f6da03300a8fb70a5a19cbe8c:120988519</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Delegated Dev User Administration">1ae3c8a3c3221200f25d174292d3aea3</application>
+<category>customer</category>
+<comments/>
+<name>sys_security_acl_e7b2fe8f51a03300964fea027a05d468</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl"><sys_security_acl action="INSERT_OR_UPDATE"><active>true</active><admin_overrides>true</admin_overrides><advanced>false</advanced><condition/><description>Default access control on sn_dd_user_admin_child_update_set_table</description><name>sn_dd_user_admin_child_update_set_table</name><operation display_value="read">read</operation><script/><sys_class_name>sys_security_acl</sys_class_name><sys_created_by>maint</sys_created_by><sys_created_on>2019-04-06 08:01:24</sys_created_on><sys_id>e7b2fe8f51a03300964fea027a05d468</sys_id><sys_mod_count>0</sys_mod_count><sys_name>sn_dd_user_admin_child_update_set_table</sys_name><sys_package display_value="Delegated Dev User Administration" source="sn_dd_user_admin">1ae3c8a3c3221200f25d174292d3aea3</sys_package><sys_policy/><sys_scope display_value="Delegated Dev User Administration">1ae3c8a3c3221200f25d174292d3aea3</sys_scope><sys_update_name>sys_security_acl_e7b2fe8f51a03300964fea027a05d468</sys_update_name><sys_updated_by>maint</sys_updated_by><sys_updated_on>2019-04-06 08:01:24</sys_updated_on><type display_value="record">record</type></sys_security_acl></record_update>]]></payload>
+<payload_hash>-1867029991</payload_hash>
+<remote_update_set display_value="Child Update Set - No Access">0a33b6cf51a03300964fea027a05d458</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>maint</sys_created_by>
+<sys_created_on>2019-04-06 08:03:29</sys_created_on>
+<sys_id>4233b6cf51a03300964fea027a05d4be</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>169f1aa9d840000001</sys_recorded_at>
+<sys_updated_by>maint</sys_updated_by>
+<sys_updated_on>2019-04-06 08:03:29</sys_updated_on>
+<table>sn_dd_user_admin_child_update_set_table</table>
+<target_name>sn_dd_user_admin_child_update_set_table</target_name>
+<type>Access Control</type>
+<update_domain>global</update_domain>
+<update_guid>67b2fe8fa1a03300d3770abd3bf0be6a</update_guid>
+<update_guid_history>67b2fe8fa1a03300d3770abd3bf0be6a:-1867029991</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Delegated Dev User Administration">1ae3c8a3c3221200f25d174292d3aea3</application>
+<category>customer</category>
+<comments/>
+<name>sys_documentation_sn_dd_user_admin_child_update_set_table__en</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_documentation element="" label="Child Update Set Table" language="en" table="sn_dd_user_admin_child_update_set_table"><sys_documentation action="INSERT_OR_UPDATE"><element/><help/><hint/><label>Child Update Set Table</label><language>en</language><name>sn_dd_user_admin_child_update_set_table</name><plural>Child Update Set Tables</plural><sys_class_name>sys_documentation</sys_class_name><sys_created_by>maint</sys_created_by><sys_created_on>2019-04-06 08:01:24</sys_created_on><sys_id>e7b2fe8f51a03300964fea027a05d47f</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Child Update Set Table</sys_name><sys_package display_value="Delegated Dev User Administration" source="sn_dd_user_admin">1ae3c8a3c3221200f25d174292d3aea3</sys_package><sys_policy/><sys_scope display_value="Delegated Dev User Administration">1ae3c8a3c3221200f25d174292d3aea3</sys_scope><sys_update_name>sys_documentation_sn_dd_user_admin_child_update_set_table__en</sys_update_name><sys_updated_by>maint</sys_updated_by><sys_updated_on>2019-04-06 08:01:24</sys_updated_on><url/><url_target/></sys_documentation></sys_documentation></record_update>]]></payload>
+<payload_hash>1666935885</payload_hash>
+<remote_update_set display_value="Child Update Set - No Access">0a33b6cf51a03300964fea027a05d458</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>maint</sys_created_by>
+<sys_created_on>2019-04-06 08:03:29</sys_created_on>
+<sys_id>4633b6cf51a03300964fea027a05d4bd</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>169f1aaa0030000001</sys_recorded_at>
+<sys_updated_by>maint</sys_updated_by>
+<sys_updated_on>2019-04-06 08:03:29</sys_updated_on>
+<table>sn_dd_user_admin_child_update_set_table</table>
+<target_name>Child Update Set Table</target_name>
+<type>Field Label</type>
+<update_domain>global</update_domain>
+<update_guid>a7b2fe8fcda033000da99b2f23426b8d</update_guid>
+<update_guid_history>a7b2fe8fcda033000da99b2f23426b8d:1666935885</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Delegated Dev User Administration">1ae3c8a3c3221200f25d174292d3aea3</application>
+<category>customer</category>
+<comments/>
+<name>sys_db_object_1fa2be8f51a03300964fea027a05d4fd</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_object"><sys_db_object action="INSERT_OR_UPDATE"><access>public</access><actions_access>false</actions_access><alter_access>false</alter_access><client_scripts_access>false</client_scripts_access><configuration_access>false</configuration_access><create_access>false</create_access><create_access_controls>true</create_access_controls><delete_access>false</delete_access><extension_model/><is_extendable>false</is_extendable><label>Child Update Set Table</label><live_feed_enabled>false</live_feed_enabled><name>sn_dd_user_admin_child_update_set_table</name><number_ref/><provider_class/><read_access>true</read_access><scriptable_table>false</scriptable_table><super_class/><sys_class_code/><sys_class_name>sys_db_object</sys_class_name><sys_class_path/><sys_created_by>maint</sys_created_by><sys_created_on>2019-04-06 08:01:23</sys_created_on><sys_id>1fa2be8f51a03300964fea027a05d4fd</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Child Update Set Table</sys_name><sys_package display_value="Delegated Dev User Administration" source="sn_dd_user_admin">1ae3c8a3c3221200f25d174292d3aea3</sys_package><sys_policy/><sys_scope display_value="Delegated Dev User Administration">1ae3c8a3c3221200f25d174292d3aea3</sys_scope><sys_update_name>sys_db_object_1fa2be8f51a03300964fea027a05d4fd</sys_update_name><sys_updated_by>maint</sys_updated_by><sys_updated_on>2019-04-06 08:01:23</sys_updated_on><update_access>false</update_access><user_role display_value="sn_dd_user_admin.child_update_set_table_user" name="sn_dd_user_admin.child_update_set_table_user">d7b2be8f51a03300964fea027a05d479</user_role><ws_access>true</ws_access></sys_db_object></record_update>]]></payload>
+<payload_hash>1596196280</payload_hash>
+<remote_update_set display_value="Child Update Set - No Access">0a33b6cf51a03300964fea027a05d458</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>maint</sys_created_by>
+<sys_created_on>2019-04-06 08:03:29</sys_created_on>
+<sys_id>4a33b6cf51a03300964fea027a05d4bc</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>169f1aaa0240000001</sys_recorded_at>
+<sys_updated_by>maint</sys_updated_by>
+<sys_updated_on>2019-04-06 08:03:29</sys_updated_on>
+<table>sn_dd_user_admin_child_update_set_table</table>
+<target_name>Child Update Set Table</target_name>
+<type>Table</type>
+<update_domain>global</update_domain>
+<update_guid>2bb2fe8f6da033005ef0aaabefee908f</update_guid>
+<update_guid_history>2bb2fe8f6da033005ef0aaabefee908f:1596196280</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Delegated Dev User Administration">1ae3c8a3c3221200f25d174292d3aea3</application>
+<category>customer</category>
+<comments/>
+<name>sys_security_acl_role_afb2fe8f51a03300964fea027a05d475</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>maint</sys_created_by><sys_created_on>2019-04-06 08:01:24</sys_created_on><sys_id>afb2fe8f51a03300964fea027a05d475</sys_id><sys_mod_count>0</sys_mod_count><sys_name>sn_dd_user_admin_child_update_set_table.sn_dd_user_admin.child_update_set_table_user</sys_name><sys_package display_value="Delegated Dev User Administration" source="sn_dd_user_admin">1ae3c8a3c3221200f25d174292d3aea3</sys_package><sys_policy/><sys_scope display_value="Delegated Dev User Administration">1ae3c8a3c3221200f25d174292d3aea3</sys_scope><sys_security_acl display_value="sn_dd_user_admin_child_update_set_table">e3b2fe8f51a03300964fea027a05d473</sys_security_acl><sys_update_name>sys_security_acl_role_afb2fe8f51a03300964fea027a05d475</sys_update_name><sys_updated_by>maint</sys_updated_by><sys_updated_on>2019-04-06 08:01:24</sys_updated_on><sys_user_role display_value="sn_dd_user_admin.child_update_set_table_user" name="sn_dd_user_admin.child_update_set_table_user">d7b2be8f51a03300964fea027a05d479</sys_user_role><transaction_id/></sys_security_acl_role></record_update>]]></payload>
+<payload_hash>-1259386677</payload_hash>
+<remote_update_set display_value="Child Update Set - No Access">0a33b6cf51a03300964fea027a05d458</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>maint</sys_created_by>
+<sys_created_on>2019-04-06 08:03:29</sys_created_on>
+<sys_id>4e33b6cf51a03300964fea027a05d4be</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>169f1aa9e060000001</sys_recorded_at>
+<sys_updated_by>maint</sys_updated_by>
+<sys_updated_on>2019-04-06 08:03:29</sys_updated_on>
+<table>sn_dd_user_admin_child_update_set_table</table>
+<target_name>sn_dd_user_admin_child_update_set_table.sn_dd_user_admin.child_update_set_table_user</target_name>
+<type>Access Roles</type>
+<update_domain>global</update_domain>
+<update_guid>2fb2fe8f97a0330065fe08c60f623d77</update_guid>
+<update_guid_history>2fb2fe8f97a0330065fe08c60f623d77:-1259386677</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Delegated Dev User Administration">1ae3c8a3c3221200f25d174292d3aea3</application>
+<category>customer</category>
+<comments/>
+<name>sys_documentation_sn_dd_user_admin_child_update_set_table_u_child_field_en</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_documentation element="u_child_field" label="Child Field" language="en" table="sn_dd_user_admin_child_update_set_table"><sys_documentation action="INSERT_OR_UPDATE"><element>u_child_field</element><help/><hint/><label>Child Field</label><language>en</language><name>sn_dd_user_admin_child_update_set_table</name><plural>Child Fields</plural><sys_class_name>sys_documentation</sys_class_name><sys_created_by>maint</sys_created_by><sys_created_on>2019-04-06 08:01:24</sys_created_on><sys_id>ebb2fe8f51a03300964fea027a05d482</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Child Field</sys_name><sys_package display_value="Delegated Dev User Administration" source="sn_dd_user_admin">1ae3c8a3c3221200f25d174292d3aea3</sys_package><sys_policy/><sys_scope display_value="Delegated Dev User Administration">1ae3c8a3c3221200f25d174292d3aea3</sys_scope><sys_update_name>sys_documentation_sn_dd_user_admin_child_update_set_table_u_child_field_en</sys_update_name><sys_updated_by>maint</sys_updated_by><sys_updated_on>2019-04-06 08:01:24</sys_updated_on><url/><url_target/></sys_documentation></sys_documentation></record_update>]]></payload>
+<payload_hash>-303026087</payload_hash>
+<remote_update_set display_value="Child Update Set - No Access">0a33b6cf51a03300964fea027a05d458</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>maint</sys_created_by>
+<sys_created_on>2019-04-06 08:03:29</sys_created_on>
+<sys_id>8233b6cf51a03300964fea027a05d4bd</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>169f1aaa0120000001</sys_recorded_at>
+<sys_updated_by>maint</sys_updated_by>
+<sys_updated_on>2019-04-06 08:03:29</sys_updated_on>
+<table>sn_dd_user_admin_child_update_set_table</table>
+<target_name>Child Update Set Table.Child Field</target_name>
+<type>Field Label</type>
+<update_domain>global</update_domain>
+<update_guid>e7b2fe8f04a0330011cb04660614e78e</update_guid>
+<update_guid_history>e7b2fe8f04a0330011cb04660614e78e:-303026087</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Delegated Dev User Administration">1ae3c8a3c3221200f25d174292d3aea3</application>
+<category>customer</category>
+<comments/>
+<name>sys_user_role_d7b2be8f51a03300964fea027a05d479</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role"><sys_user_role action="INSERT_OR_UPDATE"><assignable_by/><can_delegate>true</can_delegate><description/><elevated_privilege>false</elevated_privilege><grantable>true</grantable><includes_roles/><name>sn_dd_user_admin.child_update_set_table_user</name><requires_subscription>-1</requires_subscription><scoped_admin>false</scoped_admin><suffix>child_update_set_table_user</suffix><sys_class_name>sys_user_role</sys_class_name><sys_created_by>maint</sys_created_by><sys_created_on>2019-04-06 08:01:23</sys_created_on><sys_id>d7b2be8f51a03300964fea027a05d479</sys_id><sys_mod_count>0</sys_mod_count><sys_name>sn_dd_user_admin.child_update_set_table_user</sys_name><sys_package display_value="Delegated Dev User Administration" source="sn_dd_user_admin">1ae3c8a3c3221200f25d174292d3aea3</sys_package><sys_policy/><sys_scope display_value="Delegated Dev User Administration">1ae3c8a3c3221200f25d174292d3aea3</sys_scope><sys_update_name>sys_user_role_d7b2be8f51a03300964fea027a05d479</sys_update_name><sys_updated_by>maint</sys_updated_by><sys_updated_on>2019-04-06 08:01:23</sys_updated_on></sys_user_role></record_update>]]></payload>
+<payload_hash>32073347</payload_hash>
+<remote_update_set display_value="Child Update Set - No Access">0a33b6cf51a03300964fea027a05d458</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>maint</sys_created_by>
+<sys_created_on>2019-04-06 08:03:29</sys_created_on>
+<sys_id>8633b6cf51a03300964fea027a05d4bf</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>169f1aa9bb10000001</sys_recorded_at>
+<sys_updated_by>maint</sys_updated_by>
+<sys_updated_on>2019-04-06 08:03:29</sys_updated_on>
+<table/>
+<target_name>sn_dd_user_admin.child_update_set_table_user</target_name>
+<type>Role</type>
+<update_domain>global</update_domain>
+<update_guid>13b2fe8f30a03300fd106808354ca150</update_guid>
+<update_guid_history>13b2fe8f30a03300fd106808354ca150:32073347</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Delegated Dev User Administration">1ae3c8a3c3221200f25d174292d3aea3</application>
+<category>customer</category>
+<comments/>
+<name>sys_security_acl_role_a3b2fe8f51a03300964fea027a05d46b</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>maint</sys_created_by><sys_created_on>2019-04-06 08:01:24</sys_created_on><sys_id>a3b2fe8f51a03300964fea027a05d46b</sys_id><sys_mod_count>0</sys_mod_count><sys_name>sn_dd_user_admin_child_update_set_table.sn_dd_user_admin.child_update_set_table_user</sys_name><sys_package display_value="Delegated Dev User Administration" source="sn_dd_user_admin">1ae3c8a3c3221200f25d174292d3aea3</sys_package><sys_policy/><sys_scope display_value="Delegated Dev User Administration">1ae3c8a3c3221200f25d174292d3aea3</sys_scope><sys_security_acl display_value="sn_dd_user_admin_child_update_set_table">e7b2fe8f51a03300964fea027a05d468</sys_security_acl><sys_update_name>sys_security_acl_role_a3b2fe8f51a03300964fea027a05d46b</sys_update_name><sys_updated_by>maint</sys_updated_by><sys_updated_on>2019-04-06 08:01:24</sys_updated_on><sys_user_role display_value="sn_dd_user_admin.child_update_set_table_user" name="sn_dd_user_admin.child_update_set_table_user">d7b2be8f51a03300964fea027a05d479</sys_user_role><transaction_id/></sys_security_acl_role></record_update>]]></payload>
+<payload_hash>884616885</payload_hash>
+<remote_update_set display_value="Child Update Set - No Access">0a33b6cf51a03300964fea027a05d458</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>maint</sys_created_by>
+<sys_created_on>2019-04-06 08:03:29</sys_created_on>
+<sys_id>8a33b6cf51a03300964fea027a05d4be</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>169f1aa9d9f0000001</sys_recorded_at>
+<sys_updated_by>maint</sys_updated_by>
+<sys_updated_on>2019-04-06 08:03:29</sys_updated_on>
+<table>sn_dd_user_admin_child_update_set_table</table>
+<target_name>sn_dd_user_admin_child_update_set_table.sn_dd_user_admin.child_update_set_table_user</target_name>
+<type>Access Roles</type>
+<update_domain>global</update_domain>
+<update_guid>23b2fe8f00a03300127e8542864d8f6d</update_guid>
+<update_guid_history>23b2fe8f00a03300127e8542864d8f6d:884616885</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Delegated Dev User Administration">1ae3c8a3c3221200f25d174292d3aea3</application>
+<category>customer</category>
+<comments/>
+<name>sys_app_module_57b2fe8f51a03300964fea027a05d45b</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="Child Update Set Table">1fb2fe8f51a03300964fea027a05d458</application><assessment/><device_type/><filter/><hint/><homepage/><image/><link_type>LIST</link_type><map_page/><mobile_title>Child Update Set Tables</mobile_title><mobile_view_name>Mobile</mobile_view_name><name>sn_dd_user_admin_child_update_set_table</name><order/><override_menu_roles>false</override_menu_roles><query/><report/><roles>sn_dd_user_admin.child_update_set_table_user</roles><sys_class_name>sys_app_module</sys_class_name><sys_created_by>maint</sys_created_by><sys_created_on>2019-04-06 08:01:24</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>57b2fe8f51a03300964fea027a05d45b</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Child Update Set Tables</sys_name><sys_overrides/><sys_package display_value="Delegated Dev User Administration" source="sn_dd_user_admin">1ae3c8a3c3221200f25d174292d3aea3</sys_package><sys_policy/><sys_scope display_value="Delegated Dev User Administration">1ae3c8a3c3221200f25d174292d3aea3</sys_scope><sys_update_name>sys_app_module_57b2fe8f51a03300964fea027a05d45b</sys_update_name><sys_updated_by>maint</sys_updated_by><sys_updated_on>2019-04-06 08:01:24</sys_updated_on><timeline_page/><title>Child Update Set Tables</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+<payload_hash>632598784</payload_hash>
+<remote_update_set display_value="Child Update Set - No Access">0a33b6cf51a03300964fea027a05d458</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>maint</sys_created_by>
+<sys_created_on>2019-04-06 08:03:29</sys_created_on>
+<sys_id>8e33b6cf51a03300964fea027a05d458</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>169f1aa9cb60000001</sys_recorded_at>
+<sys_updated_by>maint</sys_updated_by>
+<sys_updated_on>2019-04-06 08:03:29</sys_updated_on>
+<table>sn_dd_user_admin_child_update_set_table</table>
+<target_name>Child Update Set Tables</target_name>
+<type>Module</type>
+<update_domain>global</update_domain>
+<update_guid>dfb2fe8f4da033008f64f5f80e74ce5c</update_guid>
+<update_guid_history>dfb2fe8f4da033008f64f5f80e74ce5c:632598784</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Delegated Dev User Administration">1ae3c8a3c3221200f25d174292d3aea3</application>
+<category>customer</category>
+<comments/>
+<name>sys_security_acl_e3b2fe8f51a03300964fea027a05d473</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl"><sys_security_acl action="INSERT_OR_UPDATE"><active>true</active><admin_overrides>true</admin_overrides><advanced>false</advanced><condition/><description>Default access control on sn_dd_user_admin_child_update_set_table</description><name>sn_dd_user_admin_child_update_set_table</name><operation display_value="delete">delete</operation><script/><sys_class_name>sys_security_acl</sys_class_name><sys_created_by>maint</sys_created_by><sys_created_on>2019-04-06 08:01:24</sys_created_on><sys_id>e3b2fe8f51a03300964fea027a05d473</sys_id><sys_mod_count>0</sys_mod_count><sys_name>sn_dd_user_admin_child_update_set_table</sys_name><sys_package display_value="Delegated Dev User Administration" source="sn_dd_user_admin">1ae3c8a3c3221200f25d174292d3aea3</sys_package><sys_policy/><sys_scope display_value="Delegated Dev User Administration">1ae3c8a3c3221200f25d174292d3aea3</sys_scope><sys_update_name>sys_security_acl_e3b2fe8f51a03300964fea027a05d473</sys_update_name><sys_updated_by>maint</sys_updated_by><sys_updated_on>2019-04-06 08:01:24</sys_updated_on><type display_value="record">record</type></sys_security_acl></record_update>]]></payload>
+<payload_hash>-1939898961</payload_hash>
+<remote_update_set display_value="Child Update Set - No Access">0a33b6cf51a03300964fea027a05d458</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>maint</sys_created_by>
+<sys_created_on>2019-04-06 08:03:29</sys_created_on>
+<sys_id>8e33b6cf51a03300964fea027a05d4bd</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>169f1aa9de90000001</sys_recorded_at>
+<sys_updated_by>maint</sys_updated_by>
+<sys_updated_on>2019-04-06 08:03:29</sys_updated_on>
+<table>sn_dd_user_admin_child_update_set_table</table>
+<target_name>sn_dd_user_admin_child_update_set_table</target_name>
+<type>Access Control</type>
+<update_domain>global</update_domain>
+<update_guid>63b2fe8f21a03300ff5e6f4b377d9275</update_guid>
+<update_guid_history>63b2fe8f21a03300ff5e6f4b377d9275:-1939898961</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Delegated Dev User Administration">1ae3c8a3c3221200f25d174292d3aea3</application>
+<category>customer</category>
+<comments/>
+<name>sys_ui_module_9fb2fe8f51a03300964fea027a05d45f</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module"><sys_ui_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="Child Update Set Table">dfb2fe8f51a03300964fea027a05d45d</application><filter/><name>Child Update Set Tables</name><order/><path/><path_relative_to_root>false</path_relative_to_root><roles>sn_dd_user_admin.child_update_set_table_user</roles><sys_class_name>sys_ui_module</sys_class_name><sys_created_by>maint</sys_created_by><sys_created_on>2019-04-06 08:01:24</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>9fb2fe8f51a03300964fea027a05d45f</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Child Update Set Tables</sys_name><sys_package display_value="Delegated Dev User Administration" source="sn_dd_user_admin">1ae3c8a3c3221200f25d174292d3aea3</sys_package><sys_policy/><sys_scope display_value="Delegated Dev User Administration">1ae3c8a3c3221200f25d174292d3aea3</sys_scope><sys_update_name>sys_ui_module_9fb2fe8f51a03300964fea027a05d45f</sys_update_name><sys_updated_by>maint</sys_updated_by><sys_updated_on>2019-04-06 08:01:24</sys_updated_on><table>sn_dd_user_admin_child_update_set_table</table><uncancelable>false</uncancelable><view_name/></sys_ui_module></record_update>]]></payload>
+<payload_hash>-1248121874</payload_hash>
+<remote_update_set display_value="Child Update Set - No Access">0a33b6cf51a03300964fea027a05d458</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>maint</sys_created_by>
+<sys_created_on>2019-04-06 08:03:29</sys_created_on>
+<sys_id>c233b6cf51a03300964fea027a05d4bf</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>169f1aa9cfd0000001</sys_recorded_at>
+<sys_updated_by>maint</sys_updated_by>
+<sys_updated_on>2019-04-06 08:03:29</sys_updated_on>
+<table>sn_dd_user_admin_child_update_set_table</table>
+<target_name>Child Update Set Tables</target_name>
+<type>Module</type>
+<update_domain>global</update_domain>
+<update_guid>53b2fe8f6ba0330006d7e5460b6b0561</update_guid>
+<update_guid_history>53b2fe8f6ba0330006d7e5460b6b0561:-1248121874</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Delegated Dev User Administration">1ae3c8a3c3221200f25d174292d3aea3</application>
+<category>customer</category>
+<comments/>
+<name>sys_security_acl_role_2bb2fe8f51a03300964fea027a05d470</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>maint</sys_created_by><sys_created_on>2019-04-06 08:01:24</sys_created_on><sys_id>2bb2fe8f51a03300964fea027a05d470</sys_id><sys_mod_count>0</sys_mod_count><sys_name>sn_dd_user_admin_child_update_set_table.sn_dd_user_admin.child_update_set_table_user</sys_name><sys_package display_value="Delegated Dev User Administration" source="sn_dd_user_admin">1ae3c8a3c3221200f25d174292d3aea3</sys_package><sys_policy/><sys_scope display_value="Delegated Dev User Administration">1ae3c8a3c3221200f25d174292d3aea3</sys_scope><sys_security_acl display_value="sn_dd_user_admin_child_update_set_table">6fb2fe8f51a03300964fea027a05d46d</sys_security_acl><sys_update_name>sys_security_acl_role_2bb2fe8f51a03300964fea027a05d470</sys_update_name><sys_updated_by>maint</sys_updated_by><sys_updated_on>2019-04-06 08:01:24</sys_updated_on><sys_user_role display_value="sn_dd_user_admin.child_update_set_table_user" name="sn_dd_user_admin.child_update_set_table_user">d7b2be8f51a03300964fea027a05d479</sys_user_role><transaction_id/></sys_security_acl_role></record_update>]]></payload>
+<payload_hash>1459723743</payload_hash>
+<remote_update_set display_value="Child Update Set - No Access">0a33b6cf51a03300964fea027a05d458</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>maint</sys_created_by>
+<sys_created_on>2019-04-06 08:03:29</sys_created_on>
+<sys_id>c633b6cf51a03300964fea027a05d4be</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>169f1aa9dd10000001</sys_recorded_at>
+<sys_updated_by>maint</sys_updated_by>
+<sys_updated_on>2019-04-06 08:03:29</sys_updated_on>
+<table>sn_dd_user_admin_child_update_set_table</table>
+<target_name>sn_dd_user_admin_child_update_set_table.sn_dd_user_admin.child_update_set_table_user</target_name>
+<type>Access Roles</type>
+<update_domain>global</update_domain>
+<update_guid>a7b2fe8f0da03300906526d15cdfb072</update_guid>
+<update_guid_history>a7b2fe8f0da03300906526d15cdfb072:1459723743</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Delegated Dev User Administration">1ae3c8a3c3221200f25d174292d3aea3</application>
+<category>customer</category>
+<comments/>
+<name>sys_app_application_1fb2fe8f51a03300964fea027a05d458</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application"><sys_app_application action="INSERT_OR_UPDATE"><active>true</active><category display_value="Custom Applications">e0355b31ef303000a61d5a3615c0fb78</category><description/><device_type>browser</device_type><hint/><name>Child Update Set Table</name><order>100</order><roles>sn_dd_user_admin.child_update_set_table_user</roles><sys_class_name>sys_app_application</sys_class_name><sys_created_by>maint</sys_created_by><sys_created_on>2019-04-06 08:01:24</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>1fb2fe8f51a03300964fea027a05d458</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Child Update Set Table</sys_name><sys_overrides/><sys_package display_value="Delegated Dev User Administration" source="sn_dd_user_admin">1ae3c8a3c3221200f25d174292d3aea3</sys_package><sys_policy/><sys_scope display_value="Delegated Dev User Administration">1ae3c8a3c3221200f25d174292d3aea3</sys_scope><sys_update_name>sys_app_application_1fb2fe8f51a03300964fea027a05d458</sys_update_name><sys_updated_by>maint</sys_updated_by><sys_updated_on>2019-04-06 08:01:24</sys_updated_on><title>Child Update Set Table</title><view_name/></sys_app_application></record_update>]]></payload>
+<payload_hash>702691056</payload_hash>
+<remote_update_set display_value="Child Update Set - No Access">0a33b6cf51a03300964fea027a05d458</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>maint</sys_created_by>
+<sys_created_on>2019-04-06 08:03:29</sys_created_on>
+<sys_id>ca33b6cf51a03300964fea027a05d458</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>169f1aa9c830000001</sys_recorded_at>
+<sys_updated_by>maint</sys_updated_by>
+<sys_updated_on>2019-04-06 08:03:29</sys_updated_on>
+<table/>
+<target_name>Child Update Set Table</target_name>
+<type>Application Menu</type>
+<update_domain>global</update_domain>
+<update_guid>1bb2fe8f98a0330025f534a93ff0f75a</update_guid>
+<update_guid_history>1bb2fe8f98a0330025f534a93ff0f75a:702691056</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Delegated Dev User Administration">1ae3c8a3c3221200f25d174292d3aea3</application>
+<category>customer</category>
+<comments/>
+<name>sys_security_acl_6fb2fe8f51a03300964fea027a05d46d</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl"><sys_security_acl action="INSERT_OR_UPDATE"><active>true</active><admin_overrides>true</admin_overrides><advanced>false</advanced><condition/><description>Default access control on sn_dd_user_admin_child_update_set_table</description><name>sn_dd_user_admin_child_update_set_table</name><operation display_value="write">write</operation><script/><sys_class_name>sys_security_acl</sys_class_name><sys_created_by>maint</sys_created_by><sys_created_on>2019-04-06 08:01:24</sys_created_on><sys_id>6fb2fe8f51a03300964fea027a05d46d</sys_id><sys_mod_count>0</sys_mod_count><sys_name>sn_dd_user_admin_child_update_set_table</sys_name><sys_package display_value="Delegated Dev User Administration" source="sn_dd_user_admin">1ae3c8a3c3221200f25d174292d3aea3</sys_package><sys_policy/><sys_scope display_value="Delegated Dev User Administration">1ae3c8a3c3221200f25d174292d3aea3</sys_scope><sys_update_name>sys_security_acl_6fb2fe8f51a03300964fea027a05d46d</sys_update_name><sys_updated_by>maint</sys_updated_by><sys_updated_on>2019-04-06 08:01:24</sys_updated_on><type display_value="record">record</type></sys_security_acl></record_update>]]></payload>
+<payload_hash>1441637469</payload_hash>
+<remote_update_set display_value="Child Update Set - No Access">0a33b6cf51a03300964fea027a05d458</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>maint</sys_created_by>
+<sys_created_on>2019-04-06 08:03:29</sys_created_on>
+<sys_id>ca33b6cf51a03300964fea027a05d4bd</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>169f1aa9db90000001</sys_recorded_at>
+<sys_updated_by>maint</sys_updated_by>
+<sys_updated_on>2019-04-06 08:03:29</sys_updated_on>
+<table>sn_dd_user_admin_child_update_set_table</table>
+<target_name>sn_dd_user_admin_child_update_set_table</target_name>
+<type>Access Control</type>
+<update_domain>global</update_domain>
+<update_guid>ebb2fe8fc0a03300d9a33ce2200e906f</update_guid>
+<update_guid_history>ebb2fe8fc0a03300d9a33ce2200e906f:1441637469</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Delegated Dev User Administration">1ae3c8a3c3221200f25d174292d3aea3</application>
+<category>customer</category>
+<comments/>
+<name>sys_dictionary_sn_dd_user_admin_child_update_set_table_u_child_field</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update&gt;&lt;sys_dictionary action="INSERT_OR_UPDATE" element="u_child_field" table="sn_dd_user_admin_child_update_set_table"&gt;&lt;active&gt;true&lt;/active&gt;&lt;array&gt;false&lt;/array&gt;&lt;array_denormalized&gt;false&lt;/array_denormalized&gt;&lt;attributes/&gt;&lt;audit&gt;false&lt;/audit&gt;&lt;calculation&gt;&lt;![CDATA[(function calculatedFieldValue(current) {
+
+	// Add your code here
+	return '';  // return the calculated value
+
+})(current);]]&gt;&lt;/calculation&gt;&lt;choice/&gt;&lt;choice_field/&gt;&lt;choice_table/&gt;&lt;column_label&gt;Child Field&lt;/column_label&gt;&lt;comments/&gt;&lt;create_roles/&gt;&lt;default_value/&gt;&lt;defaultsort/&gt;&lt;delete_roles/&gt;&lt;dependent/&gt;&lt;dependent_on_field/&gt;&lt;display&gt;false&lt;/display&gt;&lt;dynamic_creation&gt;false&lt;/dynamic_creation&gt;&lt;dynamic_creation_script/&gt;&lt;dynamic_default_value/&gt;&lt;dynamic_ref_qual/&gt;&lt;element&gt;u_child_field&lt;/element&gt;&lt;element_reference&gt;false&lt;/element_reference&gt;&lt;foreign_database/&gt;&lt;function_definition/&gt;&lt;function_field&gt;false&lt;/function_field&gt;&lt;internal_type display_value="String"&gt;string&lt;/internal_type&gt;&lt;mandatory&gt;false&lt;/mandatory&gt;&lt;max_length&gt;40&lt;/max_length&gt;&lt;name&gt;sn_dd_user_admin_child_update_set_table&lt;/name&gt;&lt;next_element/&gt;&lt;primary&gt;false&lt;/primary&gt;&lt;read_only&gt;false&lt;/read_only&gt;&lt;read_roles/&gt;&lt;reference/&gt;&lt;reference_cascade_rule/&gt;&lt;reference_floats&gt;false&lt;/reference_floats&gt;&lt;reference_key/&gt;&lt;reference_qual/&gt;&lt;reference_qual_condition/&gt;&lt;reference_type/&gt;&lt;sizeclass/&gt;&lt;spell_check&gt;false&lt;/spell_check&gt;&lt;staged&gt;false&lt;/staged&gt;&lt;sys_class_name&gt;sys_dictionary&lt;/sys_class_name&gt;&lt;sys_created_by&gt;maint&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2019-04-06 08:01:23&lt;/sys_created_on&gt;&lt;sys_id&gt;f3a2be8f51a03300964fea027a05d476&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;Child Field&lt;/sys_name&gt;&lt;sys_package display_value="Delegated Dev User Administration" source="sn_dd_user_admin"&gt;1ae3c8a3c3221200f25d174292d3aea3&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Delegated Dev User Administration"&gt;1ae3c8a3c3221200f25d174292d3aea3&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_dictionary_sn_dd_user_admin_child_update_set_table_u_child_field&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;maint&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2019-04-06 08:01:23&lt;/sys_updated_on&gt;&lt;table_reference&gt;false&lt;/table_reference&gt;&lt;text_index&gt;false&lt;/text_index&gt;&lt;unique&gt;false&lt;/unique&gt;&lt;use_dependent_field&gt;false&lt;/use_dependent_field&gt;&lt;use_dynamic_default&gt;false&lt;/use_dynamic_default&gt;&lt;use_reference_qualifier&gt;simple&lt;/use_reference_qualifier&gt;&lt;virtual&gt;false&lt;/virtual&gt;&lt;widget/&gt;&lt;write_roles/&gt;&lt;xml_view&gt;false&lt;/xml_view&gt;&lt;/sys_dictionary&gt;&lt;/record_update&gt;</payload>
+<payload_hash>339401861</payload_hash>
+<remote_update_set display_value="Child Update Set - No Access">0a33b6cf51a03300964fea027a05d458</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>maint</sys_created_by>
+<sys_created_on>2019-04-06 08:03:29</sys_created_on>
+<sys_id>ce33b6cf51a03300964fea027a05d4bc</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>169f1aa9bfb0000001</sys_recorded_at>
+<sys_updated_by>maint</sys_updated_by>
+<sys_updated_on>2019-04-06 08:03:29</sys_updated_on>
+<table>sn_dd_user_admin_child_update_set_table</table>
+<target_name>sn_dd_user_admin_child_update_set_table.u_child_field</target_name>
+<type>Dictionary</type>
+<update_domain>global</update_domain>
+<update_guid>53b2fe8f0ba033002992137fc619b955</update_guid>
+<update_guid_history>53b2fe8f0ba033002992137fc619b955:339401861</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+</unload>

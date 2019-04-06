@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?><unload unload_date="2019-04-06 07:53:55">
+<sys_remote_update_set action="INSERT_OR_UPDATE">
+<application display_value="Delegated Dev 19">ddc3a60351a03300964fea027a05d41b</application>
+<application_name>Delegated Dev 19</application_name>
+<application_scope>x_delegated_dev_19</application_scope>
+<application_version>1.0.0</application_version>
+<collisions/>
+<commit_date/>
+<deleted/>
+<description/>
+<inserted/>
+<name>Add Field To Table</name>
+<origin_sys_id/>
+<parent display_value=""/>
+<release_date/>
+<remote_base_update_set display_value=""/>
+<remote_parent_id/>
+<remote_sys_id>76d03e4f51a03300964fea027a05d402</remote_sys_id>
+<state>loaded</state>
+<summary/>
+<sys_class_name>sys_remote_update_set</sys_class_name>
+<sys_created_by>maint</sys_created_by>
+<sys_created_on>2019-04-06 07:53:55</sys_created_on>
+<sys_id>7d017e4f51a03300964fea027a05d495</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>maint</sys_updated_by>
+<sys_updated_on>2019-04-06 07:53:55</sys_updated_on>
+<update_set display_value=""/>
+<update_source display_value=""/>
+<updated/>
+</sys_remote_update_set>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Delegated Dev 19">ddc3a60351a03300964fea027a05d41b</application>
+<category>customer</category>
+<comments/>
+<name>sys_ui_section_2224ea0351a03300964fea027a05d4e0</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_section caption="" section_id="2224ea0351a03300964fea027a05d4e0" sys_domain="global" table="x_delegated_dev_19_las_vegas_weather" version="3" view=""><sys_ui_element action="INSERT_OR_UPDATE"><element>.begin_split</element><position>0</position><sys_created_by>maint</sys_created_by><sys_created_on>2019-04-06 06:57:55</sys_created_on><sys_id>2934ea0351a03300964fea027a05d4f8</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_delegated_dev_19_las_vegas_weather" sys_domain="global" view="Default view">2224ea0351a03300964fea027a05d4e0</sys_ui_section><sys_updated_by>maint</sys_updated_by><sys_updated_on>2019-04-06 06:57:55</sys_updated_on><sys_user/><type>.begin_split</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>weather</element><position>1</position><sys_created_by>maint</sys_created_by><sys_created_on>2019-04-06 06:57:55</sys_created_on><sys_id>a934ea0351a03300964fea027a05d4f8</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_delegated_dev_19_las_vegas_weather" sys_domain="global" view="Default view">2224ea0351a03300964fea027a05d4e0</sys_ui_section><sys_updated_by>maint</sys_updated_by><sys_updated_on>2019-04-06 06:57:55</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>.split</element><position>2</position><sys_created_by>maint</sys_created_by><sys_created_on>2019-04-06 06:57:55</sys_created_on><sys_id>2d34ea0351a03300964fea027a05d4f8</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_delegated_dev_19_las_vegas_weather" sys_domain="global" view="Default view">2224ea0351a03300964fea027a05d4e0</sys_ui_section><sys_updated_by>maint</sys_updated_by><sys_updated_on>2019-04-06 06:57:55</sys_updated_on><sys_user/><type>.split</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>temperature</element><position>3</position><sys_created_by>maint</sys_created_by><sys_created_on>2019-04-06 06:57:55</sys_created_on><sys_id>ad34ea0351a03300964fea027a05d4f8</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_delegated_dev_19_las_vegas_weather" sys_domain="global" view="Default view">2224ea0351a03300964fea027a05d4e0</sys_ui_section><sys_updated_by>maint</sys_updated_by><sys_updated_on>2019-04-06 06:57:55</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>.end_split</element><position>4</position><sys_created_by>maint</sys_created_by><sys_created_on>2019-04-06 06:57:55</sys_created_on><sys_id>2134ea0351a03300964fea027a05d4f9</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_delegated_dev_19_las_vegas_weather" sys_domain="global" view="Default view">2224ea0351a03300964fea027a05d4e0</sys_ui_section><sys_updated_by>maint</sys_updated_by><sys_updated_on>2019-04-06 06:57:55</sys_updated_on><sys_user/><type>.end_split</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>added_field_from_update_set</element><position>5</position><sys_created_by>maint</sys_created_by><sys_created_on>2019-04-06 07:53:36</sys_created_on><sys_id>51f03e4f51a03300964fea027a05d458</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_delegated_dev_19_las_vegas_weather" sys_domain="global" view="Default view">2224ea0351a03300964fea027a05d4e0</sys_ui_section><sys_updated_by>maint</sys_updated_by><sys_updated_on>2019-04-06 07:53:36</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_section action="INSERT_OR_UPDATE"><caption/><header>false</header><name>x_delegated_dev_19_las_vegas_weather</name><roles/><sys_class_name>sys_ui_section</sys_class_name><sys_created_by>maint</sys_created_by><sys_created_on>2019-04-06 06:57:43</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>2224ea0351a03300964fea027a05d4e0</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_delegated_dev_19_las_vegas_weather</sys_name><sys_overrides/><sys_package display_value="Delegated Dev 19" source="x_delegated_dev_19">ddc3a60351a03300964fea027a05d41b</sys_package><sys_policy/><sys_scope display_value="Delegated Dev 19">ddc3a60351a03300964fea027a05d41b</sys_scope><sys_update_name>sys_ui_section_2224ea0351a03300964fea027a05d4e0</sys_update_name><sys_updated_by>maint</sys_updated_by><sys_updated_on>2019-04-06 06:57:43</sys_updated_on><sys_user/><title>true</title><view display_value="Default view" name="NULL">Default view</view><view_name/></sys_ui_section></sys_ui_section></record_update>]]></payload>
+<payload_hash>-1037754364</payload_hash>
+<remote_update_set display_value="Add Field To Table">7d017e4f51a03300964fea027a05d495</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>maint</sys_created_by>
+<sys_created_on>2019-04-06 07:53:55</sys_created_on>
+<sys_id>3d017e4f51a03300964fea027a05d496</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>169f1a37b5e0000001</sys_recorded_at>
+<sys_updated_by>maint</sys_updated_by>
+<sys_updated_on>2019-04-06 07:53:55</sys_updated_on>
+<table>x_delegated_dev_19_las_vegas_weather</table>
+<target_name>Las Vegas Weather</target_name>
+<type>Form Layout</type>
+<update_domain>global</update_domain>
+<update_guid>d1f03e4f8ea03300ddccdf807ac2565a</update_guid>
+<update_guid_history>d1f03e4f8ea03300ddccdf807ac2565a:-1037754364,6bb8ee47d9a033003adc0357e11d13d2:0,edb8ae470da033001c797a46ab86421f:-458649445,17b66a8349a03300f9e28dc83ccd375e:0,ddb6e683a2a03300225a3c6e6520eda1:-458649445,6534ea033ba03300d8ae1f7905e649fa:670615677,ba24ea0384a0330078bfa958aa5d52e8:699521533,2224ea039fa03300af27676cf9da28e3:-2015206420</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Delegated Dev 19">ddc3a60351a03300964fea027a05d41b</application>
+<category>customer</category>
+<comments/>
+<name>sys_documentation_x_delegated_dev_19_las_vegas_weather_added_field_from_update_set_en</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_documentation element="added_field_from_update_set" label="Added Field From Update Set" language="en" table="x_delegated_dev_19_las_vegas_weather"><sys_documentation action="INSERT_OR_UPDATE"><element>added_field_from_update_set</element><help/><hint/><label>Added Field From Update Set</label><language>en</language><name>x_delegated_dev_19_las_vegas_weather</name><plural>Added Field From Update Sets</plural><sys_class_name>sys_documentation</sys_class_name><sys_created_by>maint</sys_created_by><sys_created_on>2019-04-06 07:53:36</sys_created_on><sys_id>1df03e4f51a03300964fea027a05d4c0</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Added Field From Update Set</sys_name><sys_package display_value="Delegated Dev 19" source="x_delegated_dev_19">ddc3a60351a03300964fea027a05d41b</sys_package><sys_policy/><sys_scope display_value="Delegated Dev 19">ddc3a60351a03300964fea027a05d41b</sys_scope><sys_update_name>sys_documentation_x_delegated_dev_19_las_vegas_weather_added_field_from_update_set_en</sys_update_name><sys_updated_by>maint</sys_updated_by><sys_updated_on>2019-04-06 07:53:36</sys_updated_on><url/><url_target/></sys_documentation></sys_documentation></record_update>]]></payload>
+<payload_hash>532203785</payload_hash>
+<remote_update_set display_value="Add Field To Table">7d017e4f51a03300964fea027a05d495</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>maint</sys_created_by>
+<sys_created_on>2019-04-06 07:53:55</sys_created_on>
+<sys_id>79017e4f51a03300964fea027a05d496</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>169f1a37cd70000001</sys_recorded_at>
+<sys_updated_by>maint</sys_updated_by>
+<sys_updated_on>2019-04-06 07:53:55</sys_updated_on>
+<table>x_delegated_dev_19_las_vegas_weather</table>
+<target_name>Las Vegas Weather.Added Field From Update Set</target_name>
+<type>Field Label</type>
+<update_domain>global</update_domain>
+<update_guid>d1f03e4ffda033002ca78a8350255dc8</update_guid>
+<update_guid_history>d1f03e4ffda033002ca78a8350255dc8:532203785</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Delegated Dev 19">ddc3a60351a03300964fea027a05d41b</application>
+<category>customer</category>
+<comments/>
+<name>sys_dictionary_x_delegated_dev_19_las_vegas_weather_added_field_from_update_set</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update&gt;&lt;sys_dictionary action="INSERT_OR_UPDATE" element="added_field_from_update_set" table="x_delegated_dev_19_las_vegas_weather"&gt;&lt;active&gt;true&lt;/active&gt;&lt;array&gt;false&lt;/array&gt;&lt;array_denormalized&gt;false&lt;/array_denormalized&gt;&lt;attributes/&gt;&lt;audit&gt;false&lt;/audit&gt;&lt;calculation&gt;&lt;![CDATA[(function calculatedFieldValue(current) {
+
+	// Add your code here
+	return '';  // return the calculated value
+
+})(current);]]&gt;&lt;/calculation&gt;&lt;choice/&gt;&lt;choice_field/&gt;&lt;choice_table/&gt;&lt;column_label&gt;Added Field From Update Set&lt;/column_label&gt;&lt;comments/&gt;&lt;create_roles/&gt;&lt;default_value/&gt;&lt;defaultsort/&gt;&lt;delete_roles/&gt;&lt;dependent/&gt;&lt;dependent_on_field/&gt;&lt;display&gt;false&lt;/display&gt;&lt;dynamic_creation&gt;false&lt;/dynamic_creation&gt;&lt;dynamic_creation_script/&gt;&lt;dynamic_default_value/&gt;&lt;dynamic_ref_qual/&gt;&lt;element&gt;added_field_from_update_set&lt;/element&gt;&lt;element_reference&gt;false&lt;/element_reference&gt;&lt;foreign_database/&gt;&lt;function_definition/&gt;&lt;function_field&gt;false&lt;/function_field&gt;&lt;internal_type display_value="String"&gt;string&lt;/internal_type&gt;&lt;mandatory&gt;false&lt;/mandatory&gt;&lt;max_length&gt;40&lt;/max_length&gt;&lt;name&gt;x_delegated_dev_19_las_vegas_weather&lt;/name&gt;&lt;next_element/&gt;&lt;primary&gt;false&lt;/primary&gt;&lt;read_only&gt;false&lt;/read_only&gt;&lt;read_roles/&gt;&lt;reference/&gt;&lt;reference_cascade_rule/&gt;&lt;reference_floats&gt;false&lt;/reference_floats&gt;&lt;reference_key/&gt;&lt;reference_qual/&gt;&lt;reference_qual_condition/&gt;&lt;reference_type/&gt;&lt;sizeclass/&gt;&lt;spell_check&gt;false&lt;/spell_check&gt;&lt;staged&gt;false&lt;/staged&gt;&lt;sys_class_name&gt;sys_dictionary&lt;/sys_class_name&gt;&lt;sys_created_by&gt;maint&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2019-04-06 07:53:36&lt;/sys_created_on&gt;&lt;sys_id&gt;bfaf264f51a03300964fea027a05d41d&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;Added Field From Update Set&lt;/sys_name&gt;&lt;sys_package display_value="Delegated Dev 19" source="x_delegated_dev_19"&gt;ddc3a60351a03300964fea027a05d41b&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Delegated Dev 19"&gt;ddc3a60351a03300964fea027a05d41b&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_dictionary_x_delegated_dev_19_las_vegas_weather_added_field_from_update_set&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;maint&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2019-04-06 07:53:36&lt;/sys_updated_on&gt;&lt;table_reference&gt;false&lt;/table_reference&gt;&lt;text_index&gt;false&lt;/text_index&gt;&lt;unique&gt;false&lt;/unique&gt;&lt;use_dependent_field&gt;false&lt;/use_dependent_field&gt;&lt;use_dynamic_default&gt;false&lt;/use_dynamic_default&gt;&lt;use_reference_qualifier&gt;simple&lt;/use_reference_qualifier&gt;&lt;virtual&gt;false&lt;/virtual&gt;&lt;widget/&gt;&lt;write_roles/&gt;&lt;xml_view&gt;false&lt;/xml_view&gt;&lt;/sys_dictionary&gt;&lt;/record_update&gt;</payload>
+<payload_hash>1372378739</payload_hash>
+<remote_update_set display_value="Add Field To Table">7d017e4f51a03300964fea027a05d495</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>maint</sys_created_by>
+<sys_created_on>2019-04-06 07:53:55</sys_created_on>
+<sys_id>b1017e4f51a03300964fea027a05d496</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>169f1a37ccb0000001</sys_recorded_at>
+<sys_updated_by>maint</sys_updated_by>
+<sys_updated_on>2019-04-06 07:53:55</sys_updated_on>
+<table>x_delegated_dev_19_las_vegas_weather</table>
+<target_name>Las Vegas Weather.Added Field From Update Set</target_name>
+<type>Dictionary</type>
+<update_domain>global</update_domain>
+<update_guid>15f03e4fd4a03300a0c7ca84a127e9c7</update_guid>
+<update_guid_history>15f03e4fd4a03300a0c7ca84a127e9c7:1372378739,ddf03e4f6ba03300fd4d66c1c2840abe:1372378739</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+</unload>
